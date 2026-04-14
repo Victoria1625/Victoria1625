@@ -71,7 +71,7 @@ Meu objetivo é construir projetos que mostrem não só capacidade técnica, mas
 - Ciência de Dados aplicada
 - Machine Learning
 - Analytics
-- MLOps em nível inicial
+- MLOps
 - Produtos analíticos
 - Decisão orientada por dados
 
