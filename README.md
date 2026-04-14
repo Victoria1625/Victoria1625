@@ -110,4 +110,4 @@ Mais do que treinar modelos, busco construir projetos que demonstrem capacidade 
 
 ---
 
-Sempre buscando evoluir em projetos que conectem **dados, produto e decisão**.
+Sempre buscando evoluir em projetos que conectem **dados, produto e decisão**!
