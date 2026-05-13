@@ -107,6 +107,7 @@ Mais do que treinar modelos, busco construir projetos que demonstrem capacidade 
 
 - LinkedIn: [Victoria Andreozzi](https://br.linkedin.com/in/victoria-andreozzi-129b59300)
 - Email: [victoriaandreozzi16@gmail.com](mailto:victoriaandreozzi16@gmail.com)
+- Portifólio: [Victoria](https://victoria-portifolio.vercel.app)
 
 ---
 
