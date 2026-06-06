@@ -95,14 +95,6 @@ Mais do que treinar modelos, busco construir projetos que demonstrem capacidade 
 - integrar modelagem, backend e interface
 - comunicar resultados de forma clara e útil
 
-## Atualmente aprofundando
-
-- avaliação e comparação de modelos
-- métricas para classificação e regressão
-- feature engineering
-- arquitetura de soluções analíticas
-- construção de portfólio aplicado a Data Science
-
 ## Contato
 
 - LinkedIn: [Victoria Andreozzi](https://br.linkedin.com/in/victoria-andreozzi-129b59300)
